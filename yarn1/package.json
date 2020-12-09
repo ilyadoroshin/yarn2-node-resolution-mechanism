@@ -1,0 +1,13 @@
+{
+  "name": "yarn1-node-resolution-mechanism",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "g:check": "echo \"AAA\""
+  },
+  "private": true,
+  "devDependencies": {
+    "typescript": "3.9.5"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "yarn2-node-resolution-mechanism",
+  "workspaces": [
+    "packages/*"
+  ],
+  "private": true,
+  "devDependencies": {
+    "typescript": "3.9.5"
+  }
+}
